@@ -1,0 +1,15 @@
+{
+	"Tranquil_Abuse_Tooltip": "Auto disassemble/reassemble Tranquil Boots based on nearby threats",
+	"Tranquil_Abuse_OnMyAttack": "Abuse on my attacks",
+	"Tranquil_Abuse_OnMyAttack_Tooltip": "Treat your own attack projectiles as a threat trigger",
+	"Tranquil_Abuse_HoldDisassembleKey": "Hold disassemble key",
+	"Tranquil_Abuse_HoldDisassembleKey_Tooltip": "While held, disassembles Tranquils and keeps them disassembled",
+	"Tranquil_Abuse_ForceCycleCatchUp": "Force anti-stick catch-up",
+	"Tranquil_Abuse_Timings": "Timings",
+	"Tranquil_Abuse_ThreatCooldown": "Projectile threat cooldown (x0.01s)",
+	"Tranquil_Abuse_RecentDamageThreatWindow": "Recent damage window (x0.01s)",
+	"Tranquil_Abuse_DamageDebuffThreatWindow": "Damage debuff window (x0.01s)",
+	"Khanda_Abuse_Tooltip": "Prioritize Khanda on cast, then disassemble in cast window for Phylactery and reassemble",
+	"Khanda_Abuse_AntiStickCycle": "Anti-stick disassemble cycle",
+	"Khanda_Abuse_AntiStickCycle_Tooltip": "Every 7 seconds sends queued Khanda disassemble to keep disassemble window alive"
+}

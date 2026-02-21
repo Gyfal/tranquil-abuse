@@ -1,0 +1,16 @@
+{
+	"private": true,
+	"name": "tranquil-abuse",
+	"version": "1.0.0",
+	"main": "src/index.ts",
+	"description": "Tranquil boots abuse helper",
+	"author": "GyFaL",
+	"license": "GPL-3.0-or-later",
+	"devDependencies": {
+		"typescript": "^5.6.3"
+	},
+	"scripts": {
+		"check-types": "npx tsc",
+		"check-types-watch": "npx tsc --watch"
+	}
+}

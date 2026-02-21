@@ -1,0 +1,15 @@
+{
+	"Tranquil_Abuse_Tooltip": "Авто-разборка и сборка Tranquil Boots по угрозам рядом",
+	"Tranquil_Abuse_OnMyAttack": "Abuse на моих атаках",
+	"Tranquil_Abuse_OnMyAttack_Tooltip": "Считать мои атакующие снаряды триггером угрозы",
+	"Tranquil_Abuse_HoldDisassembleKey": "Клавиша удержания разборки",
+	"Tranquil_Abuse_HoldDisassembleKey_Tooltip": "Пока зажата, разбирает Tranquils и держит их разобранными",
+	"Tranquil_Abuse_ForceCycleCatchUp": "Форс anti-stick catch-up",
+	"Tranquil_Abuse_Timings": "Тайминги",
+	"Tranquil_Abuse_ThreatCooldown": "Окно угрозы от снарядов (x0.01с)",
+	"Tranquil_Abuse_RecentDamageThreatWindow": "Окно после полученного урона (x0.01с)",
+	"Tranquil_Abuse_DamageDebuffThreatWindow": "Окно вредного дебаффа (x0.01с)",
+	"Khanda_Abuse_Tooltip": "Разбор Khanda перед кастом для прока Phylactery и сборка обратно",
+	"Khanda_Abuse_AntiStickCycle": "Анти-стик цикл разборки",
+	"Khanda_Abuse_AntiStickCycle_Tooltip": "Раз в 7 секунд делает queue-разборку Khanda, чтобы окно разборки не тухло"
+}
